@@ -40,8 +40,8 @@ This is desktop view.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [CLick for solution URL here](https://github.com/codekesh/Huddle-landing-page-with-a-single-introductory-section.git)
+- Live Site URL: [CLick for live site URL here](https://codekesh.github.io/Huddle-landing-page-with-a-single-introductory-section/)
 
 ## My process
 Below is my process for making this page clone
