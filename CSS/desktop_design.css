@@ -1,0 +1,101 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url('../images/bg-desktop.svg') no-repeat center/cover;
+    background-color: hsl(257, 40%, 49%);
+}
+
+.logo img {
+    height: 50px;
+}
+
+.logo {
+    margin: 50px 70px;
+}
+
+.section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 70px;
+
+}
+
+.illustration img {
+    height: 600px;
+}
+
+.instructions {
+    position: relative;
+    bottom: 120px;
+    padding: 0px 40px;
+    color: white;
+}
+
+.button {
+    width: 40%;
+    height: 50px;
+    border-radius: 25px;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 2px 8px 0px;
+    background-color: white;
+    font-family: 'Poppins', sans-serif;
+    color: hsl(257, 40%, 49%);
+    font-size: 16px;
+}
+
+.instructions h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.instructions p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    margin: 20px 0px;
+}
+
+.social-media a {
+    color: white;
+    border-radius: 10px;
+    margin: 0px 10px;
+    font-size: 20px;
+}
+
+.fa-facebook-f {
+    padding: 10px 14px;
+    border-radius: 25px;
+}
+
+.fa-instagram {
+    padding: 10px 11px;
+    border-radius: 25px;
+}
+
+.fa-twitter {
+    padding: 10px 10px;
+    border-radius: 25px;
+}
+
+.social-media {
+    margin: 30px 0px;
+    text-align: right;
+    margin-right: 70px;
+}
+
+.button:hover {
+    cursor: pointer;
+    background-color: hsl(300, 69%, 71%);
+    color: white;
+}
+
+.fa-brands:hover {
+    transition: 0.2s ease;
+    color: hsl(300, 69%, 71%);
+    border-color: hsl(300, 69%, 71%);
+}
